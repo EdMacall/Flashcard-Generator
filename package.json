@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "My homework at CWRU",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdMacall/Flashcard-Generator.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdMacall/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/EdMacall/Flashcard-Generator",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
